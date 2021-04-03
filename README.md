@@ -8,3 +8,4 @@ And fork your own versions. Please pull request to me to put your own versions.
 ## Available versions
 
 - docker-compose3.9 ruby2.7.2 rails6 postgres
+- docker-compose3.9 python3 django3 postgres
